@@ -6,7 +6,7 @@
   "description": "CalcPlus lets numbers be calculated way over the normal limit without losing precision",
   "devDependencies": {
     "@types/mathjs": "^6.0.5",
-    "mathjs": "^7.2.0",
+    "mathjs": "^7.5.1",
     "typescript": "^4.0.3"
   },
   "engines": {
